@@ -14,7 +14,7 @@ Name | Role
 -------- | ---
 [Abhishek Balam](https://github.com/abhishekbalam) | Head Of Department
 Nahush Raichura | Head
-Aditya Thakkar | Head
+[Aditya Thakkar](https://github.com/adityathakker) | Head
 
 
 **The Infotech Co-Committee** :
